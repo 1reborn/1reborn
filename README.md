@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @1reborn
+- 👀 I’m interested in software program 
+- 🌱 I’m currently learning programming
